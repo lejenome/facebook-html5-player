@@ -1,0 +1,13 @@
+{
+  "name": "facebook-video-player",
+  "title": "Facebook HTML5 Video Player",
+  "id": "facebook-video-player@lejenome.me",
+  "description": "Replace Facebook Flash player with Firefox native Video Player",
+  "author": "Moez Bouhlel <bmoez.j@gmail.com> (http://lejenome.github.io/)",
+  "homepage": "https://github.com/lejenome/facebook-html5-player",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {
+    "private-browsing": true
+  }
+}
